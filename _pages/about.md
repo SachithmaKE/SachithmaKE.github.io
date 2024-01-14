@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my research website!"
+title: "Oceans, Carbon & Imaging"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Oceans, Carbon & Imaging
 ======
 I am a Masters student in Oceanography at the University of Maine advised by Dr. Margaret Estapa. I work on technologies, both present and novel, to quantify carbon fluxes in the ocean. 
 
