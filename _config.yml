@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : 
   avatar           : "IMG_20220629_183436.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Research Assistant"
   location         : "University of Maine"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=4az5GtAAAAAJ&hl=en&oi=ao"
   email            : "sachithma.edirisinghe@maine.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "SachithmaKE"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  Lab Website      : 
 
 
 # Reading Files
